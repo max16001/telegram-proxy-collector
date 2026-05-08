@@ -1,7 +1,7 @@
 # Verified RU Proxies (5)
-# Updated: 2026-05-08 03:38:54 UTC
+# Updated: 2026-05-08 06:03:53 UTC
 # Method: TCP_OK
-# Best ping: 0.099s
+# Best ping: 0.146s
 
 tg://proxy?server=50.7.41.162&port=443&secret=ee011808bcccfd224644ca7f231846a7d46d61782e7275
 tg://proxy?server=89.125.113.155&port=443&secret=ee67af7b545eb72c3c47fc2ccb74aa41c979616e6465782e7275
