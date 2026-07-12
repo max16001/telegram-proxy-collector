@@ -1,5 +1,5 @@
 # Verified RU Proxies (1)
-# Updated: 2026-07-12 09:56:53 UTC
+# Updated: 2026-07-12 13:41:34 UTC
 # Method: TCP_OK
 # Best ping: 0.127s
 
