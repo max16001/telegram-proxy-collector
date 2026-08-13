@@ -1,6 +1,6 @@
 # Verified RU Proxies (1)
-# Updated: 2026-08-13 02:28:42 UTC
+# Updated: 2026-08-13 05:43:56 UTC
 # Method: TCP_OK
-# Best ping: 0.161s
+# Best ping: 0.203s
 
 tg://proxy?server=dev.nowabst.net&port=853&secret=ee54079943a5db4dc9163650c09dfc806d766b2e636f6d
