@@ -1,6 +1,6 @@
 # Verified RU Proxies (1)
-# Updated: 2026-08-16 12:50:54 UTC
+# Updated: 2026-08-16 16:32:01 UTC
 # Method: TCP_OK
-# Best ping: 1.51s
+# Best ping: 0.763s
 
 tg://proxy?server=proxy.lodkirmm.ru&port=8443&secret=ee16309abd572d284b309ef26bd7a3f68570726f78792e6c6f646b69726d6d2e7275
