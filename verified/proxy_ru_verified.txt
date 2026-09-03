@@ -1,6 +1,3 @@
-# Verified RU Proxies (1)
-# Updated: 2026-09-03 12:44:21 UTC
-# Method: TCP_OK
-# Best ping: 0.403s
+# Verified RU Proxies (0)
+# Updated: 2026-09-03 19:13:41 UTC
 
-tg://proxy?server=lazeyka-2-5.getvelora.space&port=443&secret=ee32ee4962951c5b2bb70bc767751761a36f7a6f6e2e7275
